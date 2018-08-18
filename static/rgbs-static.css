@@ -1,0 +1,173 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    margin-left: 50px;
+} 
+
+.colors {
+margin-top: 50px;
+margin-left: 50px;
+height: 300px;
+width: 200px;
+overflow: scroll; }
+
+.color-div {
+width: 40px;
+height: 40px;
+display: inline-block;
+margin-right: 15px; }
+
+.box_1 {
+background-color: #83DDFF; }
+
+.box_2 {
+background-color: #7A64C6; }
+
+.box_3 {
+background-color: #FADBE2; }
+
+.box_4 {
+background-color: #F5F3DC; }
+
+.box_5 {
+background-color: #9B3F14; }
+
+.box_6 {
+background-color: #E0FFFF; }
+
+.box_7 {
+background-color: #FF51A8; }
+
+.box_8 {
+background-color: #D06EA8; }
+
+.box_9 {
+background-color: #FFE4C4; }
+
+.box_10 {
+background-color: #FAEBD7; }
+
+.box_11 {
+background-color: #1E6E7F; }
+
+.box_12 {
+background-color: #FFD700; }
+
+.box_13 {
+background-color: #4E0087; }
+
+.box_14 {
+background-color: #A0522D; }
+
+.box_15 {
+background-color: #AF8650; }
+
+.box_16 {
+background-color: #1717FF; }
+
+.box_17 {
+background-color: #E1E1E1; }
+
+.box_18 {
+background-color: #000000; }
+
+.box_19 {
+background-color: #FFED00; }
+
+.box_20 {
+background-color: #5D3806; }
+
+.box_21 {
+background-color: #DCECFF; }
+
+.box_22 {
+background-color: #666666; }
+
+.box_23 {
+background-color: #FFFFE0; }
+
+.box_24 {
+background-color: #F0E68C; }
+
+.box_25 {
+background-color: #6FA8DC; }
+
+.box_26{
+background-color: #CBCFD0; }
+
+.box_27 {
+background-color: #EACB53; }
+
+.box_28 {
+background-color: #73E129; }
+
+.box_29 {
+background-color: #013267; }
+
+.box_30 {
+background-color: #FF0000; }
+
+.box_31 {
+background-color: #FFFFFF; }
+
+.box_32 {
+background-color: #BF9000; }
+
+.box_33 {
+background-color: #3F7600; }
+
+.box_34 {
+background-color: #9F00FF; }
+
+.box_35 {
+background-color: #FCB1BE; }
+
+.box_36 {
+background-color: #F9AC95; }
+
+.box_37 {
+background-color: #0DA600; }
+
+.box_38 {
+background-color: #00FFFF; }
+
+.box_39 {
+background-color: #D9D2E9; }
+
+.box_40 {
+background-color: #C63633; }
+
+.box_41 {
+background-color: #FA8072; }
+
+.box_42 {
+background-color: #9FF39F; }
+
+.box_43 {
+background-color: #40E0D0; }
+
+.box_44 {
+background-color: #CC87FF; }
+
+.box_45 {
+background-color: #830500; }
+
+.box_46 {
+background-color: #FDAF20; }
+
+.box_47 {
+background-color: #003D00; }
+
+.box_48 {
+background-color: #0F5299; }
+
+.box_49 {
+background-color: #FF00EC; }
+
+.box_50 {
+background-color: #FF8C00; }
+
+.box_51{
+background-color: #D2691E; }
